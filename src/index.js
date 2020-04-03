@@ -1,7 +1,6 @@
 import menu  from './menu.json';
 import menuItem from './menu-item.hbs';
 import './themeSwitch';
-import './storage';
 import './styles.css';
 
 
