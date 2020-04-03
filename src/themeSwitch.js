@@ -28,9 +28,9 @@ function handlerSwitch(e){
   }
 }
 
-const darkThemeStorage = localStorage.load("Theme","DARK")
+const themeSwitch = localStorage.load("Theme","DARK")
 
-if(darkThemeStorage === "DARK"){
+if(themeSwitch === "DARK"){
   refs.inputSwitch.checked = true
   document.body.classList.add(Theme.DARK);
 }
