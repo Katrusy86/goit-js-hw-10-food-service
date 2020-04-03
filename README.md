@@ -1,2 +1,1 @@
-# tools
-webpack for BC19
+# goit-js-hw-10-food-service
